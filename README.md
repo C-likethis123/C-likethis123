@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jia Ying 👋
 
 <!--
 **C-likethis123/C-likethis123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a third year Computer Science student from the National University of Singapore, specialising in software engineering and programming languages.
+
+
+[![Jia Ying's github stats](https://github-readme-stats.vercel.app/api?username=C-likethis123)](https://github.com/anuraghazra/github-readme-stats)
