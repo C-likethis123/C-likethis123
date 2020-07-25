@@ -27,8 +27,6 @@ I've done a few web development projects, mostly in React.
 
 ### Keep in touch
 
-Connect with me on Linkedin:
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="chow-jia-ying"><a class="LI-simple-link" href='https://sg.linkedin.com/in/chow-jia-ying?trk=profile-badge'>Chow Jia Ying</a></div>
+Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
-[![Jia Ying's github stats](https://github-readme-stats.vercel.app/api?username=C-likethis123)](https://github.com/anuraghazra/github-readme-stats)
+Follow me on Medium: [![Medium](https://github-readme-medium.vercel.app/?username=C-likethis123)](https://medium.com/@chowjiaying211)
