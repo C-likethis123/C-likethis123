@@ -27,8 +27,10 @@ I've done a few web development projects, mostly in React.
 
 ### Keep in touch
 
-Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+Connect with me on Linkedin: <a href="https://linkedin.com/in/iampavangandhi">
+  <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 Follow me on Medium: [![Medium](https://github-readme-medium.vercel.app/?username=C-likethis123)](https://medium.com/@chowjiaying211)
 
-Follow me on Github: ![Github](https://img.shields.io/github/followers/C-likethis123?label=Follow%20me%21&style=social)
+![Github](https://img.shields.io/github/followers/C-likethis123?label=Follow%20me%21&style=social) on Github
