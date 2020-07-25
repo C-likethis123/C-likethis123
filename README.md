@@ -27,7 +27,8 @@ I've done a few web development projects, mostly in React.
 
 ### Keep in touch
 
-Connect with me on Linkedin: <a href="https://linkedin.com/in/iampavangandhi">
+Connect with me on Linkedin: 
+<a href="https://linkedin.com/in/iampavangandhi">
   <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
