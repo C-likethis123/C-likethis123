@@ -30,3 +30,5 @@ I've done a few web development projects, mostly in React.
 Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
 Follow me on Medium: [![Medium](https://github-readme-medium.vercel.app/?username=C-likethis123)](https://medium.com/@chowjiaying211)
+
+Follow me on Github: https://img.shields.io/github/followers/C-likethis123?label=Follow%20me%21&style=social
