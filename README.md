@@ -19,6 +19,13 @@ I'm a third year Computer Science student from the National University of Singap
 
 I've done a few web development projects, mostly in React.
 
+### - Languages and Tools
+
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-java-plain-wordmark colored"></i>
 ### Some things I'm up to
 - Currently interning in Switcheo Network as a frontend developer intern
 - Learning UI/UX in my own free time
@@ -33,4 +40,4 @@ Follow me on [Medium](https://medium.com/@chowjiaying211)
 
 Visit my [personal website](https://c-likethis123.github.io/website/)
 
-![Github](https://img.shields.io/github/followers/C-likethis123?label=Follow%20me%21&style=social) on Github
+Follow me on Github
