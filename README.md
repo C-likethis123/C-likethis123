@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a third year Computer Science student from the National University of Singapore, specialising in software engineering and programming languages.
 
-I've done a few web development projects, mostly in React.
+I've done a few web development projects, mostly in React. I recently concluded my internship with Switcheo, and will be working on my side projects/part time work before school starts!
 
 ## Skills 
 
@@ -35,10 +35,10 @@ I've done a few web development projects, mostly in React.
 
 
 ### Some things I'm up to
-- Currently interning in Switcheo Network as a frontend developer intern
 - Learning UI/UX in my own free time
 - Writing Medium articles to share my thoughts about programming, web development and life as a computer science undergraduate
 - Contributing to open source repositories
+- Learning about blockchains and cryptocurrencies
 
 ### Keep in touch
 
@@ -48,4 +48,4 @@ Follow me on [Medium](https://medium.com/@chowjiaying211)
 
 Visit my [personal website](https://c-likethis123.github.io/website/)
 
-Follow me on Github
+Since you're here, follow me on Github!
