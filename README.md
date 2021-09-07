@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a third year Computer Science student from the National University of Singapore, specialising in software engineering and programming languages.
+I'm a final year Computer Science student from the National University of Singapore, specialising in software engineering and programming languages.
 
 I've done a few web development projects, mostly in React. I recently concluded my internship with Switcheo, and will be working on my side projects/part time work before school starts!
 
@@ -35,7 +35,6 @@ I've done a few web development projects, mostly in React. I recently concluded 
 
 
 ### Some things I'm up to
-- Learning UI/UX in my own free time
 - Writing Medium articles to share my thoughts about programming, web development and life as a computer science undergraduate
 - Contributing to open source repositories
 - Learning about blockchains and cryptocurrencies
