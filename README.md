@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a final year Computer Science student from the National University of Singapore, specialising in software engineering and programming languages.
-
-I've done a few web development projects, mostly in React. I recently concluded my internship with Switcheo, and will be working on my side projects/part time work before school starts!
+I'm a software engineer, and graduated with a Computer Science degree from the National University of Singapore.
 
 ## Skills 
 
