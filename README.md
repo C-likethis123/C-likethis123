@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer, and graduated with a Computer Science degree from the National University of Singapore.
+I'm a software engineer at The Trade Desk, and graduated with a Computer Science degree from the National University of Singapore.
+
 
 ## Skills 
 
@@ -35,7 +36,7 @@ I'm a software engineer, and graduated with a Computer Science degree from the N
 ### Some things I'm up to
 - Writing Medium articles to share my thoughts about programming, web development and life as a computer science undergraduate
 - Contributing to open source repositories
-- Learning about blockchains and cryptocurrencies
+
 
 ### Keep in touch
 
